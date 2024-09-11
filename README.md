@@ -1,4 +1,4 @@
-## Hi there 👋 :D
+## Hi there :D
 
 Currently interning at Nurish!
 
