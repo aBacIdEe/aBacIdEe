@@ -1,7 +1,5 @@
 ## Hi there :D
 
-Currently interning at Nurish!
-
 <!--
 **aBacIdEe/aBacIdEe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
