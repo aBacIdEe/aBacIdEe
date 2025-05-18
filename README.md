@@ -1,4 +1,4 @@
-## Hi there :D
+## Student studying computer science
 
 <!--
 **aBacIdEe/aBacIdEe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
